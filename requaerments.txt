@@ -1,4 +1,0 @@
-pytz
-threading
-schedule
-telebot
